@@ -142,7 +142,7 @@ def cubic_spline_interpolation(x, f_x):
     print(A)
     print("\nVector b:")
     print(b)
-    print("\nVector c:")
+    print("\nVector x:")
     print(c)
     
     return A, b, c, a, b_spline, d
