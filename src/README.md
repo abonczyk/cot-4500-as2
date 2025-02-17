@@ -8,8 +8,8 @@ import numpy as np
 
 ## Usage
 
-python C:\Users\[User]\Desktop\cot-4500-Pro1\src\main\assignment_2.py  
-python C:\Users\[User]\Desktop\cot-4500-Pro1\src\test\test_assignment_2.py
+python C:\Users\[User]\Desktop\cot-4500-as2\src\main\assignment_2.py  
+python C:\Users\[User]\Desktop\cot-4500-as2\src\test\test_assignment_2.py
 
 OR in Replit,  
-After choosing to create a new app, choose "Import from GitHub," then "From URL," then paste "https://github.com/abonczyk/cot-4500-Pro1.git"
+After choosing to create a new app, choose "Import from GitHub," then "From URL," then paste "https://github.com/abonczyk/cot-4500-as2.git"
